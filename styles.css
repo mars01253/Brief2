@@ -42,6 +42,7 @@ header{
     position: fixed;
     width: 100%;
     padding: 0.5% 0.5%;
+    z-index: 2;
     
 }
 .Logo{
@@ -109,7 +110,6 @@ footer{
 
 }
 .foot2{
-    background-color: dimgray;
     padding: 1px 1px;
     width: 40%;
     margin-top: 10%;
@@ -301,10 +301,11 @@ input{
     margin-top: 5%;
 }
 .lastbut a{
-    color: aliceblue;
+    color: rgb(255, 255, 255);
+    
 }
 .lastbut{
-    background-color: transparent;
+    background-color: yellow;
     border: 1px solid gold;
     margin-left: 15%;
     margin-top: 10%;
