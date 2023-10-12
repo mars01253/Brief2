@@ -7,7 +7,7 @@
 }
 .m{
    
-    background-image: url(wood.png);
+    background-image: url(images/wood.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -156,7 +156,7 @@ footer{
     color: gold;
 }
 .containerfoot{
-  background-image: url(wood-2.png);
+  background-image: url(images/wood-2.png);
   width: 80%;
   margin-left: 10%;
   margin-bottom: 3%;
