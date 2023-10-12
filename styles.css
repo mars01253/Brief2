@@ -299,16 +299,25 @@ input{
     width: 60%;
     margin-left: 15%;
     margin-top: 5%;
+    margin-bottom: 5%;
 }
-.lastbut a{
-    color: rgb(0, 0, 0);
-    
+.menu_anchor{
+    background-color: gold;
+    padding: 10px 6px;
+    color: black;
 }
-.lastbut{
-    background-color: yellow;
-    border: 1px solid gold;
-    margin-left: 15%;
-    margin-top: 10%;
+.menu_anchor1{
+    background-color: gold;
+    padding: 10px 6px;
+    margin-left: 9%;
+    color: black;
+
+}
+.menu1{
+    margin-top: 5%;
+    outline: 1px solid gold;
+    padding: 10px 6px;
+    color: black;
 }
 img:hover{
     transform: scale(1.1);
