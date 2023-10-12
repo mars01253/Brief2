@@ -349,3 +349,7 @@ i:hover{
 .maintext{
     font-size: larger;
 }
+iframe{
+    margin-left: 7%;
+    border-radius: 10%;
+}
